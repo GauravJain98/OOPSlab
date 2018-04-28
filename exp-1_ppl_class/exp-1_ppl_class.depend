@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1515989633 source:c:\users\gaurav jain\desktop\desktop\coding\labs\oops\exp-1_ppl_class\main.cpp
+	<iostream>
+	<string.h>
+	<ctype.h>
+
